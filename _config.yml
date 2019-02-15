@@ -2,14 +2,14 @@
 # 需要修改的内容已经用中文标注出来了
 
 # Site
-title: 站点标题
+title: Hexo Blog wdnmd.design
 subtitle:
 description:
-author: 站点作者
+author: 小冷
 language: zh-Hans
 timezone:
 
-url: https://站点域名
+url: https://blog.wdnmd.design
 root: /
 permalink: :title/
 permalink_defaults:
